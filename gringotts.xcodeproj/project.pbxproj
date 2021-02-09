@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F0732D4925D22C8700DF4732 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F09E99BC245DBE4A00E785FD /* gringotts */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = gringotts; sourceTree = BUILT_PRODUCTS_DIR; };
 		F09E99BF245DBE4A00E785FD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F09E99C7245E80D300E785FD /* libargon2.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libargon2.a; path = lib/libargon2.a; sourceTree = "<group>"; };
@@ -50,6 +51,7 @@
 		F09E99B3245DBE4A00E785FD = {
 			isa = PBXGroup;
 			children = (
+				F0732D4925D22C8700DF4732 /* LICENSE */,
 				F09E99BE245DBE4A00E785FD /* gringotts */,
 				F09E99BD245DBE4A00E785FD /* Products */,
 				F09E99C6245E80D200E785FD /* Frameworks */,
